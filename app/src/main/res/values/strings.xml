@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreeInRow</string>
+    <string name="button_start_caption">Старт!</string>
+    <string name="button_restart_caption">Заново</string>
+</resources>
